@@ -1,0 +1,2 @@
+# get_TeamViewer_ID_Password
+通过窗口句柄的方式获取正在运行的TeamViewer的ID和密码
